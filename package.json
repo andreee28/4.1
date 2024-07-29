@@ -1,0 +1,19 @@
+{
+  "name": "ts-word-count",
+  "version": "1.0.0",
+  "description": "Input a string, then this will count words in the string.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "test",
+    "software",
+    "testing"
+  ],
+  "author": "Muhammad Affandes",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
